@@ -1,8 +1,8 @@
 {
-  "name": "Jisho Radical Search",
+  "name": "Jisho Quick Radicals",
   "manifest_version": 2,
   "version": "0.1",
-  "description": "Let's you filter radicals by typing their names in Jisho.org",
+  "description": "Quickly filter radicals by typing their names in Jisho.org",
   "content_scripts": [{
     "matches": ["*://beta.jisho.org/*", "*://jisho.org/*"],
     "js": [
